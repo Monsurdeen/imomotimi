@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+#sunicon {
+    visibility: hidden;
+    
+}
+
+#moonicon {
+    display: inline;
+    color: white;
+}
